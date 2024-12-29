@@ -1,0 +1,1001 @@
+date,ticket_type,category,priority,team,resolution_time,ticket_count,day_of_week,month
+2023-01-01,Incident,Software,High,Team D,88,2,6,1
+2023-01-01,Inquiry,Network,High,Team D,8,13,6,1
+2023-01-01,Inquiry,Software,Critical,Team B,43,12,6,1
+2023-01-01,Incident,Network,Critical,Team C,55,19,6,1
+2023-01-01,Feature Request,Software,Medium,Team B,54,14,6,1
+2023-01-01,Incident,Hardware,Critical,Team C,74,4,6,1
+2023-01-02,Feature Request,Other,Medium,Team C,9,13,0,1
+2023-01-02,Inquiry,Network,Low,Team A,71,17,0,1
+2023-01-02,Inquiry,Hardware,Critical,Team C,22,15,0,1
+2023-01-03,Incident,Other,Critical,Team D,46,17,1,1
+2023-01-04,Incident,Other,Critical,Team D,79,3,2,1
+2023-01-04,Feature Request,Hardware,High,Team A,84,7,2,1
+2023-01-04,Feature Request,Hardware,Critical,Team C,68,18,2,1
+2023-01-04,Bug,Software,Medium,Team D,92,8,2,1
+2023-01-05,Incident,Network,Low,Team A,6,5,3,1
+2023-01-05,Inquiry,Other,Critical,Team D,43,18,3,1
+2023-01-05,Incident,Other,Critical,Team B,1,12,3,1
+2023-01-05,Feature Request,Other,Critical,Team D,33,14,3,1
+2023-01-05,Bug,Other,Medium,Team C,48,12,3,1
+2023-01-06,Incident,Other,High,Team B,44,15,4,1
+2023-01-06,Feature Request,Software,Critical,Team C,1,18,4,1
+2023-01-06,Bug,Other,Medium,Team A,58,15,4,1
+2023-01-06,Bug,Network,Critical,Team C,60,16,4,1
+2023-01-07,Incident,Other,Low,Team D,53,16,5,1
+2023-01-07,Inquiry,Software,Medium,Team C,83,6,5,1
+2023-01-08,Bug,Network,Critical,Team A,67,1,6,1
+2023-01-08,Bug,Other,Low,Team C,54,19,6,1
+2023-01-08,Bug,Hardware,High,Team C,73,16,6,1
+2023-01-09,Incident,Hardware,High,Team D,75,5,0,1
+2023-01-09,Incident,Network,Critical,Team D,4,14,0,1
+2023-01-09,Incident,Hardware,High,Team C,7,10,0,1
+2023-01-10,Bug,Hardware,Critical,Team D,61,4,1,1
+2023-01-10,Bug,Other,Medium,Team B,62,16,1,1
+2023-01-12,Inquiry,Network,Medium,Team C,71,2,3,1
+2023-01-12,Incident,Network,Medium,Team A,6,12,3,1
+2023-01-12,Inquiry,Other,Critical,Team C,17,13,3,1
+2023-01-13,Feature Request,Other,High,Team D,77,19,4,1
+2023-01-13,Incident,Network,Low,Team A,66,11,4,1
+2023-01-13,Bug,Software,Low,Team C,19,8,4,1
+2023-01-13,Inquiry,Hardware,Medium,Team C,91,11,4,1
+2023-01-14,Incident,Network,Critical,Team D,90,18,5,1
+2023-01-14,Inquiry,Other,Low,Team A,65,11,5,1
+2023-01-14,Incident,Other,Critical,Team C,29,5,5,1
+2023-01-14,Incident,Other,Critical,Team B,15,14,5,1
+2023-01-15,Inquiry,Hardware,Critical,Team A,95,11,6,1
+2023-01-15,Inquiry,Other,Medium,Team A,46,16,6,1
+2023-01-15,Bug,Network,Critical,Team C,8,9,6,1
+2023-01-16,Inquiry,Network,Low,Team A,54,15,0,1
+2023-01-17,Feature Request,Software,Low,Team C,36,11,1,1
+2023-01-18,Feature Request,Network,Low,Team A,59,14,2,1
+2023-01-19,Bug,Software,Low,Team A,67,17,3,1
+2023-01-19,Feature Request,Software,Medium,Team A,42,9,3,1
+2023-01-20,Feature Request,Hardware,Critical,Team D,1,19,4,1
+2023-01-20,Inquiry,Hardware,Low,Team A,77,16,4,1
+2023-01-20,Incident,Software,High,Team A,42,2,4,1
+2023-01-21,Inquiry,Other,Medium,Team D,98,14,5,1
+2023-01-21,Feature Request,Hardware,Medium,Team A,59,17,5,1
+2023-01-22,Bug,Other,High,Team A,29,9,6,1
+2023-01-22,Feature Request,Hardware,Critical,Team C,62,17,6,1
+2023-01-22,Feature Request,Network,Medium,Team A,77,7,6,1
+2023-01-23,Bug,Software,High,Team C,23,13,0,1
+2023-01-23,Bug,Software,Low,Team B,59,5,0,1
+2023-01-25,Bug,Software,Medium,Team B,68,4,2,1
+2023-01-25,Inquiry,Network,Medium,Team A,79,8,2,1
+2023-01-25,Inquiry,Network,Low,Team C,82,3,2,1
+2023-01-26,Incident,Other,Critical,Team C,95,16,3,1
+2023-01-26,Bug,Other,Medium,Team A,25,13,3,1
+2023-01-26,Incident,Other,Critical,Team B,36,17,3,1
+2023-01-27,Incident,Hardware,Critical,Team D,7,7,4,1
+2023-01-28,Incident,Other,Low,Team D,69,18,5,1
+2023-01-28,Inquiry,Hardware,Low,Team D,66,9,5,1
+2023-01-28,Feature Request,Hardware,Critical,Team D,76,2,5,1
+2023-01-28,Feature Request,Other,Low,Team B,58,16,5,1
+2023-01-28,Inquiry,Hardware,Critical,Team D,83,4,5,1
+2023-01-29,Incident,Network,Critical,Team D,89,8,6,1
+2023-01-29,Feature Request,Other,Low,Team A,48,6,6,1
+2023-01-30,Feature Request,Software,Medium,Team C,22,15,0,1
+2023-01-31,Bug,Network,High,Team A,58,6,1,1
+2023-02-02,Incident,Software,Critical,Team C,62,9,3,2
+2023-02-02,Bug,Software,High,Team A,29,10,3,2
+2023-02-02,Incident,Hardware,High,Team C,95,15,3,2
+2023-02-03,Feature Request,Software,High,Team D,78,13,4,2
+2023-02-03,Incident,Other,Critical,Team B,26,4,4,2
+2023-02-03,Bug,Software,Medium,Team C,36,4,4,2
+2023-02-03,Inquiry,Network,Critical,Team C,78,8,4,2
+2023-02-04,Bug,Other,Critical,Team C,94,8,5,2
+2023-02-04,Inquiry,Software,High,Team B,28,14,5,2
+2023-02-04,Feature Request,Software,High,Team C,50,11,5,2
+2023-02-04,Incident,Other,Medium,Team A,92,14,5,2
+2023-02-04,Inquiry,Software,Critical,Team B,58,8,5,2
+2023-02-05,Inquiry,Other,High,Team A,83,13,6,2
+2023-02-05,Incident,Hardware,High,Team B,39,2,6,2
+2023-02-05,Bug,Other,Low,Team B,18,12,6,2
+2023-02-05,Incident,Hardware,Medium,Team B,38,4,6,2
+2023-02-06,Inquiry,Hardware,Low,Team A,62,12,0,2
+2023-02-06,Inquiry,Network,High,Team B,91,12,0,2
+2023-02-06,Bug,Other,Critical,Team B,21,19,0,2
+2023-02-07,Bug,Hardware,Medium,Team C,60,13,1,2
+2023-02-07,Incident,Network,Low,Team C,57,1,1,2
+2023-02-08,Feature Request,Hardware,Low,Team B,93,12,2,2
+2023-02-08,Inquiry,Software,Medium,Team A,36,13,2,2
+2023-02-08,Bug,Hardware,Low,Team D,97,11,2,2
+2023-02-08,Bug,Other,Critical,Team B,63,19,2,2
+2023-02-08,Inquiry,Other,Critical,Team B,50,19,2,2
+2023-02-08,Inquiry,Software,High,Team D,80,11,2,2
+2023-02-08,Feature Request,Hardware,Critical,Team C,10,13,2,2
+2023-02-09,Incident,Hardware,Medium,Team D,81,13,3,2
+2023-02-10,Bug,Network,High,Team C,47,10,4,2
+2023-02-10,Incident,Other,Low,Team D,46,11,4,2
+2023-02-10,Inquiry,Network,Medium,Team C,36,13,4,2
+2023-02-11,Bug,Network,Low,Team D,70,12,5,2
+2023-02-11,Inquiry,Network,High,Team C,59,3,5,2
+2023-02-11,Feature Request,Hardware,High,Team D,62,15,5,2
+2023-02-12,Incident,Hardware,Low,Team B,24,2,6,2
+2023-02-12,Feature Request,Software,Medium,Team B,62,15,6,2
+2023-02-13,Bug,Other,High,Team B,8,19,0,2
+2023-02-13,Feature Request,Network,Medium,Team C,62,19,0,2
+2023-02-13,Incident,Network,Critical,Team C,29,17,0,2
+2023-02-13,Bug,Other,Critical,Team B,25,11,0,2
+2023-02-14,Inquiry,Hardware,Medium,Team A,98,16,1,2
+2023-02-15,Inquiry,Other,Medium,Team D,11,14,2,2
+2023-02-15,Feature Request,Network,Medium,Team A,69,19,2,2
+2023-02-15,Incident,Other,Low,Team B,87,19,2,2
+2023-02-16,Incident,Other,Critical,Team A,65,7,3,2
+2023-02-16,Inquiry,Other,Medium,Team D,75,3,3,2
+2023-02-16,Inquiry,Network,Medium,Team A,34,16,3,2
+2023-02-16,Feature Request,Other,Critical,Team D,11,6,3,2
+2023-02-16,Incident,Network,Low,Team A,46,2,3,2
+2023-02-17,Feature Request,Network,High,Team A,23,17,4,2
+2023-02-17,Incident,Hardware,Critical,Team C,32,12,4,2
+2023-02-17,Feature Request,Other,Low,Team D,82,9,4,2
+2023-02-18,Feature Request,Network,High,Team A,38,13,5,2
+2023-02-18,Inquiry,Network,Medium,Team A,32,6,5,2
+2023-02-19,Bug,Hardware,Low,Team A,32,13,6,2
+2023-02-20,Incident,Other,High,Team A,6,17,0,2
+2023-02-20,Bug,Network,Medium,Team D,81,2,0,2
+2023-02-20,Bug,Hardware,Critical,Team D,48,2,0,2
+2023-02-20,Bug,Other,Medium,Team A,57,8,0,2
+2023-02-20,Feature Request,Hardware,Low,Team C,45,6,0,2
+2023-02-20,Incident,Other,Medium,Team A,46,6,0,2
+2023-02-21,Bug,Software,High,Team A,48,12,1,2
+2023-02-21,Incident,Software,Low,Team B,56,2,1,2
+2023-02-21,Bug,Network,High,Team B,70,14,1,2
+2023-02-22,Feature Request,Network,Medium,Team A,25,11,2,2
+2023-02-22,Inquiry,Software,Medium,Team B,68,12,2,2
+2023-02-22,Inquiry,Other,High,Team A,67,5,2,2
+2023-02-22,Incident,Other,Low,Team C,65,8,2,2
+2023-02-22,Feature Request,Network,Medium,Team B,47,12,2,2
+2023-02-22,Inquiry,Network,Low,Team C,52,19,2,2
+2023-02-22,Bug,Software,High,Team C,5,1,2,2
+2023-02-23,Feature Request,Other,Medium,Team D,15,16,3,2
+2023-02-23,Inquiry,Other,Critical,Team A,34,4,3,2
+2023-02-23,Feature Request,Hardware,High,Team D,22,10,3,2
+2023-02-23,Inquiry,Software,Medium,Team A,51,7,3,2
+2023-02-23,Incident,Network,High,Team B,74,12,3,2
+2023-02-23,Inquiry,Software,Critical,Team D,17,16,3,2
+2023-02-23,Inquiry,Hardware,Medium,Team C,46,3,3,2
+2023-02-24,Incident,Network,High,Team B,59,15,4,2
+2023-02-25,Incident,Hardware,Medium,Team D,71,13,5,2
+2023-02-25,Bug,Other,High,Team C,25,5,5,2
+2023-02-26,Feature Request,Other,Critical,Team D,89,4,6,2
+2023-02-27,Incident,Hardware,High,Team B,47,13,0,2
+2023-02-27,Bug,Software,High,Team D,32,1,0,2
+2023-02-27,Inquiry,Other,Medium,Team C,47,19,0,2
+2023-02-27,Inquiry,Software,Low,Team B,67,10,0,2
+2023-02-27,Feature Request,Hardware,Medium,Team C,80,18,0,2
+2023-02-27,Feature Request,Hardware,Low,Team B,80,17,0,2
+2023-02-28,Bug,Other,High,Team C,75,5,1,2
+2023-03-01,Bug,Other,Low,Team D,18,8,2,3
+2023-03-01,Incident,Hardware,Medium,Team C,47,13,2,3
+2023-03-02,Bug,Software,Medium,Team A,26,6,3,3
+2023-03-02,Incident,Hardware,Critical,Team D,34,9,3,3
+2023-03-03,Incident,Other,Critical,Team B,17,13,4,3
+2023-03-03,Bug,Software,Critical,Team A,66,4,4,3
+2023-03-03,Incident,Network,Low,Team B,58,11,4,3
+2023-03-03,Inquiry,Network,High,Team D,78,10,4,3
+2023-03-04,Feature Request,Network,Low,Team A,38,18,5,3
+2023-03-04,Feature Request,Other,Critical,Team B,3,13,5,3
+2023-03-04,Bug,Network,Low,Team C,92,15,5,3
+2023-03-04,Feature Request,Other,Critical,Team C,16,6,5,3
+2023-03-06,Feature Request,Hardware,Low,Team C,57,13,0,3
+2023-03-06,Feature Request,Software,High,Team D,5,11,0,3
+2023-03-06,Bug,Network,Medium,Team B,78,14,0,3
+2023-03-07,Inquiry,Other,Medium,Team B,29,11,1,3
+2023-03-07,Bug,Other,Critical,Team B,57,17,1,3
+2023-03-08,Inquiry,Other,Low,Team C,64,3,2,3
+2023-03-09,Bug,Other,Critical,Team B,34,18,3,3
+2023-03-09,Inquiry,Hardware,High,Team B,20,13,3,3
+2023-03-10,Feature Request,Network,Medium,Team B,53,8,4,3
+2023-03-10,Inquiry,Software,Low,Team B,2,15,4,3
+2023-03-10,Inquiry,Software,Critical,Team C,78,14,4,3
+2023-03-10,Inquiry,Other,Low,Team B,11,11,4,3
+2023-03-11,Incident,Software,Low,Team C,93,16,5,3
+2023-03-11,Inquiry,Hardware,Low,Team B,98,19,5,3
+2023-03-13,Feature Request,Software,Medium,Team C,39,5,0,3
+2023-03-13,Feature Request,Network,Low,Team D,53,15,0,3
+2023-03-14,Incident,Software,High,Team A,58,15,1,3
+2023-03-15,Feature Request,Hardware,High,Team C,49,16,2,3
+2023-03-16,Feature Request,Network,Critical,Team A,15,6,3,3
+2023-03-16,Inquiry,Hardware,Critical,Team B,86,16,3,3
+2023-03-16,Incident,Software,Medium,Team A,71,6,3,3
+2023-03-16,Bug,Hardware,Low,Team B,71,19,3,3
+2023-03-17,Inquiry,Other,Critical,Team C,68,7,4,3
+2023-03-17,Inquiry,Network,High,Team D,83,11,4,3
+2023-03-17,Bug,Other,Critical,Team D,10,1,4,3
+2023-03-19,Incident,Hardware,Critical,Team C,49,2,6,3
+2023-03-19,Incident,Network,Low,Team A,25,19,6,3
+2023-03-19,Bug,Hardware,Low,Team A,19,8,6,3
+2023-03-21,Incident,Hardware,Low,Team D,48,15,1,3
+2023-03-22,Bug,Other,Critical,Team B,15,3,2,3
+2023-03-22,Inquiry,Hardware,Low,Team A,98,17,2,3
+2023-03-22,Bug,Hardware,Critical,Team A,32,10,2,3
+2023-03-22,Bug,Software,Critical,Team D,13,7,2,3
+2023-03-23,Incident,Software,Medium,Team A,77,13,3,3
+2023-03-24,Feature Request,Other,High,Team A,55,7,4,3
+2023-03-24,Inquiry,Hardware,Medium,Team B,63,4,4,3
+2023-03-25,Feature Request,Other,Low,Team B,30,3,5,3
+2023-03-26,Bug,Software,Low,Team A,88,7,6,3
+2023-03-27,Feature Request,Network,Critical,Team A,80,15,0,3
+2023-03-27,Feature Request,Other,Low,Team C,6,16,0,3
+2023-03-27,Incident,Software,High,Team A,57,15,0,3
+2023-03-29,Feature Request,Network,High,Team B,6,18,2,3
+2023-03-30,Bug,Hardware,High,Team A,2,1,3,3
+2023-03-30,Feature Request,Other,Critical,Team D,87,13,3,3
+2023-03-31,Incident,Hardware,High,Team B,56,6,4,3
+2023-03-31,Bug,Other,High,Team A,69,3,4,3
+2023-03-31,Incident,Hardware,Medium,Team B,16,6,4,3
+2023-03-31,Inquiry,Other,Medium,Team C,84,15,4,3
+2023-04-01,Feature Request,Software,Medium,Team B,17,4,5,4
+2023-04-02,Feature Request,Hardware,High,Team C,49,8,6,4
+2023-04-02,Bug,Hardware,Medium,Team D,34,6,6,4
+2023-04-02,Feature Request,Network,Medium,Team B,27,16,6,4
+2023-04-02,Feature Request,Network,Low,Team C,96,16,6,4
+2023-04-03,Incident,Hardware,Low,Team B,90,14,0,4
+2023-04-03,Inquiry,Software,Medium,Team C,13,18,0,4
+2023-04-04,Incident,Other,Critical,Team D,29,19,1,4
+2023-04-04,Bug,Hardware,High,Team A,5,8,1,4
+2023-04-05,Incident,Network,Critical,Team A,73,13,2,4
+2023-04-05,Feature Request,Network,High,Team D,57,12,2,4
+2023-04-05,Bug,Hardware,Critical,Team D,19,8,2,4
+2023-04-05,Bug,Hardware,High,Team A,66,17,2,4
+2023-04-05,Incident,Software,Critical,Team C,58,18,2,4
+2023-04-06,Incident,Network,High,Team B,88,3,3,4
+2023-04-06,Inquiry,Software,Low,Team A,68,13,3,4
+2023-04-06,Bug,Software,Low,Team C,22,17,3,4
+2023-04-06,Bug,Other,Medium,Team D,64,5,3,4
+2023-04-06,Feature Request,Hardware,Low,Team B,95,1,3,4
+2023-04-07,Inquiry,Other,Critical,Team A,65,12,4,4
+2023-04-07,Feature Request,Hardware,High,Team A,84,2,4,4
+2023-04-08,Feature Request,Network,Critical,Team C,53,13,5,4
+2023-04-08,Feature Request,Network,Critical,Team B,46,4,5,4
+2023-04-08,Incident,Hardware,Medium,Team C,83,6,5,4
+2023-04-09,Incident,Hardware,Medium,Team C,50,9,6,4
+2023-04-09,Bug,Software,Medium,Team C,40,3,6,4
+2023-04-09,Inquiry,Software,High,Team A,47,3,6,4
+2023-04-09,Feature Request,Network,Low,Team C,99,18,6,4
+2023-04-09,Bug,Other,Low,Team A,74,18,6,4
+2023-04-09,Bug,Other,Medium,Team A,84,7,6,4
+2023-04-09,Bug,Software,High,Team B,13,7,6,4
+2023-04-09,Feature Request,Network,Critical,Team D,68,2,6,4
+2023-04-09,Feature Request,Software,Critical,Team D,29,15,6,4
+2023-04-10,Feature Request,Other,High,Team A,5,5,0,4
+2023-04-10,Incident,Hardware,Low,Team C,86,8,0,4
+2023-04-10,Bug,Hardware,Medium,Team C,7,17,0,4
+2023-04-10,Bug,Network,Medium,Team C,79,11,0,4
+2023-04-11,Bug,Network,Low,Team C,82,17,1,4
+2023-04-11,Inquiry,Software,Critical,Team A,93,8,1,4
+2023-04-11,Bug,Other,Low,Team D,4,11,1,4
+2023-04-11,Inquiry,Other,Low,Team D,93,18,1,4
+2023-04-11,Feature Request,Software,Medium,Team A,32,8,1,4
+2023-04-13,Feature Request,Other,High,Team D,35,4,3,4
+2023-04-13,Bug,Network,Medium,Team C,73,16,3,4
+2023-04-13,Bug,Network,Critical,Team D,47,2,3,4
+2023-04-13,Inquiry,Software,Critical,Team B,92,12,3,4
+2023-04-14,Inquiry,Software,High,Team D,52,18,4,4
+2023-04-14,Bug,Software,Medium,Team D,37,8,4,4
+2023-04-15,Incident,Network,Low,Team C,49,15,5,4
+2023-04-15,Feature Request,Software,High,Team B,35,4,5,4
+2023-04-16,Feature Request,Network,Medium,Team D,59,13,6,4
+2023-04-16,Feature Request,Network,Low,Team C,6,9,6,4
+2023-04-16,Inquiry,Software,Medium,Team A,30,7,6,4
+2023-04-17,Incident,Network,Critical,Team A,79,14,0,4
+2023-04-17,Feature Request,Software,Critical,Team C,27,11,0,4
+2023-04-18,Inquiry,Other,Critical,Team B,34,3,1,4
+2023-04-18,Incident,Other,Low,Team D,83,16,1,4
+2023-04-19,Feature Request,Hardware,Critical,Team C,53,13,2,4
+2023-04-19,Feature Request,Network,Critical,Team D,93,9,2,4
+2023-04-21,Inquiry,Network,Medium,Team A,83,2,4,4
+2023-04-21,Feature Request,Hardware,Low,Team A,9,16,4,4
+2023-04-21,Feature Request,Network,Low,Team A,54,5,4,4
+2023-04-21,Bug,Hardware,Medium,Team A,30,13,4,4
+2023-04-21,Inquiry,Hardware,High,Team A,64,1,4,4
+2023-04-22,Bug,Hardware,Medium,Team A,27,10,5,4
+2023-04-22,Inquiry,Network,Medium,Team D,81,3,5,4
+2023-04-22,Feature Request,Network,Critical,Team A,61,1,5,4
+2023-04-22,Inquiry,Hardware,Medium,Team C,71,13,5,4
+2023-04-23,Feature Request,Hardware,Low,Team A,67,10,6,4
+2023-04-23,Incident,Software,Low,Team A,56,4,6,4
+2023-04-23,Incident,Hardware,Low,Team A,27,14,6,4
+2023-04-23,Bug,Other,High,Team A,99,8,6,4
+2023-04-23,Inquiry,Network,High,Team B,10,4,6,4
+2023-04-23,Inquiry,Software,High,Team D,61,11,6,4
+2023-04-23,Incident,Other,High,Team D,55,8,6,4
+2023-04-24,Inquiry,Software,Low,Team D,76,3,0,4
+2023-04-24,Inquiry,Software,Medium,Team C,11,11,0,4
+2023-04-25,Incident,Hardware,Critical,Team A,41,8,1,4
+2023-04-26,Feature Request,Hardware,High,Team C,16,2,2,4
+2023-04-26,Incident,Software,Low,Team D,68,16,2,4
+2023-04-26,Feature Request,Software,High,Team C,84,17,2,4
+2023-04-27,Incident,Hardware,Low,Team B,61,9,3,4
+2023-04-27,Bug,Network,Medium,Team C,64,12,3,4
+2023-04-28,Incident,Other,Medium,Team D,9,2,4,4
+2023-04-28,Feature Request,Network,Low,Team B,36,14,4,4
+2023-04-28,Incident,Software,Critical,Team A,6,16,4,4
+2023-04-28,Bug,Network,Low,Team B,44,3,4,4
+2023-04-29,Bug,Software,Critical,Team A,6,12,5,4
+2023-04-29,Incident,Software,High,Team D,55,5,5,4
+2023-04-30,Feature Request,Network,High,Team D,28,13,6,4
+2023-04-30,Incident,Software,Critical,Team D,83,3,6,4
+2023-05-01,Inquiry,Software,Critical,Team A,59,17,0,5
+2023-05-01,Feature Request,Software,High,Team D,62,10,0,5
+2023-05-02,Inquiry,Hardware,Low,Team C,48,11,1,5
+2023-05-02,Inquiry,Other,Medium,Team A,43,12,1,5
+2023-05-02,Incident,Other,Medium,Team D,37,18,1,5
+2023-05-02,Inquiry,Network,Medium,Team D,94,18,1,5
+2023-05-02,Bug,Network,Low,Team D,93,16,1,5
+2023-05-02,Bug,Other,High,Team D,32,11,1,5
+2023-05-03,Feature Request,Other,Critical,Team A,17,1,2,5
+2023-05-04,Inquiry,Hardware,Critical,Team D,58,17,3,5
+2023-05-04,Incident,Software,High,Team D,83,10,3,5
+2023-05-05,Bug,Software,Low,Team C,63,9,4,5
+2023-05-06,Inquiry,Software,Critical,Team D,52,11,5,5
+2023-05-06,Inquiry,Software,Critical,Team A,49,11,5,5
+2023-05-06,Inquiry,Other,Critical,Team A,68,2,5,5
+2023-05-06,Bug,Other,High,Team A,93,11,5,5
+2023-05-06,Feature Request,Network,Critical,Team C,84,5,5,5
+2023-05-06,Incident,Software,Critical,Team C,15,10,5,5
+2023-05-07,Incident,Other,Low,Team A,17,1,6,5
+2023-05-07,Incident,Software,Low,Team B,19,15,6,5
+2023-05-07,Incident,Software,Medium,Team A,51,3,6,5
+2023-05-08,Incident,Software,Low,Team A,16,13,0,5
+2023-05-08,Bug,Network,Low,Team A,41,9,0,5
+2023-05-08,Inquiry,Other,High,Team A,69,1,0,5
+2023-05-08,Feature Request,Hardware,High,Team D,96,15,0,5
+2023-05-09,Feature Request,Other,Medium,Team B,11,19,1,5
+2023-05-09,Inquiry,Other,Critical,Team A,33,19,1,5
+2023-05-09,Inquiry,Network,Medium,Team B,76,2,1,5
+2023-05-10,Bug,Software,Critical,Team B,54,4,2,5
+2023-05-10,Feature Request,Hardware,Critical,Team A,71,14,2,5
+2023-05-11,Bug,Software,Low,Team A,41,6,3,5
+2023-05-11,Incident,Hardware,High,Team A,25,3,3,5
+2023-05-11,Feature Request,Hardware,Low,Team A,29,18,3,5
+2023-05-11,Inquiry,Software,Medium,Team A,8,15,3,5
+2023-05-12,Feature Request,Network,High,Team A,15,10,4,5
+2023-05-13,Inquiry,Software,Critical,Team C,42,4,5,5
+2023-05-13,Bug,Network,Critical,Team A,60,13,5,5
+2023-05-13,Inquiry,Hardware,Critical,Team B,21,9,5,5
+2023-05-13,Bug,Software,Low,Team D,26,16,5,5
+2023-05-13,Feature Request,Software,Medium,Team A,64,12,5,5
+2023-05-14,Inquiry,Network,Medium,Team A,50,9,6,5
+2023-05-14,Incident,Hardware,Medium,Team B,92,10,6,5
+2023-05-14,Incident,Other,Critical,Team A,43,15,6,5
+2023-05-15,Inquiry,Other,Medium,Team A,6,18,0,5
+2023-05-15,Inquiry,Other,Critical,Team B,53,4,0,5
+2023-05-15,Inquiry,Other,Critical,Team D,98,6,0,5
+2023-05-16,Feature Request,Network,Low,Team A,74,4,1,5
+2023-05-16,Feature Request,Network,Low,Team B,59,12,1,5
+2023-05-16,Inquiry,Hardware,High,Team A,50,12,1,5
+2023-05-17,Feature Request,Hardware,Critical,Team B,62,4,2,5
+2023-05-17,Bug,Hardware,Critical,Team A,44,2,2,5
+2023-05-18,Feature Request,Other,Critical,Team C,10,19,3,5
+2023-05-19,Feature Request,Software,Low,Team A,27,4,4,5
+2023-05-19,Inquiry,Software,Medium,Team D,59,8,4,5
+2023-05-20,Incident,Other,High,Team B,5,6,5,5
+2023-05-20,Feature Request,Hardware,Medium,Team B,13,19,5,5
+2023-05-21,Bug,Network,Critical,Team B,39,3,6,5
+2023-05-21,Inquiry,Software,Medium,Team C,10,18,6,5
+2023-05-22,Inquiry,Other,Medium,Team A,8,17,0,5
+2023-05-22,Incident,Hardware,High,Team D,57,6,0,5
+2023-05-23,Incident,Software,Low,Team A,81,19,1,5
+2023-05-23,Incident,Hardware,Critical,Team D,91,11,1,5
+2023-05-23,Inquiry,Network,Critical,Team D,76,4,1,5
+2023-05-24,Bug,Network,High,Team D,73,2,2,5
+2023-05-24,Bug,Hardware,Medium,Team B,59,2,2,5
+2023-05-24,Inquiry,Software,Critical,Team C,59,16,2,5
+2023-05-24,Inquiry,Network,Medium,Team B,26,16,2,5
+2023-05-24,Incident,Other,High,Team B,19,4,2,5
+2023-05-24,Incident,Hardware,Critical,Team A,82,12,2,5
+2023-05-24,Incident,Software,High,Team B,68,19,2,5
+2023-05-25,Bug,Hardware,Medium,Team A,40,19,3,5
+2023-05-25,Bug,Network,Low,Team C,92,2,3,5
+2023-05-25,Bug,Other,High,Team A,52,9,3,5
+2023-05-25,Bug,Network,High,Team B,66,17,3,5
+2023-05-25,Inquiry,Hardware,High,Team C,35,15,3,5
+2023-05-26,Inquiry,Hardware,Medium,Team B,65,12,4,5
+2023-05-26,Incident,Hardware,Critical,Team B,67,6,4,5
+2023-05-26,Feature Request,Software,Critical,Team D,38,10,4,5
+2023-05-27,Feature Request,Other,Critical,Team C,49,10,5,5
+2023-05-27,Incident,Hardware,High,Team C,15,8,5,5
+2023-05-27,Bug,Hardware,Critical,Team D,39,7,5,5
+2023-05-27,Feature Request,Software,Critical,Team A,5,9,5,5
+2023-05-27,Bug,Software,Low,Team A,63,3,5,5
+2023-05-27,Feature Request,Software,High,Team C,47,13,5,5
+2023-05-28,Bug,Software,Medium,Team D,65,8,6,5
+2023-05-28,Incident,Network,Medium,Team D,59,7,6,5
+2023-05-28,Incident,Network,Low,Team A,63,10,6,5
+2023-05-29,Inquiry,Other,Critical,Team A,94,16,0,5
+2023-05-30,Inquiry,Other,Critical,Team C,49,4,1,5
+2023-05-30,Bug,Hardware,High,Team D,9,6,1,5
+2023-05-30,Bug,Hardware,Medium,Team C,33,6,1,5
+2023-05-31,Feature Request,Network,Medium,Team D,51,3,2,5
+2023-05-31,Bug,Software,High,Team C,86,17,2,5
+2023-05-31,Incident,Hardware,Low,Team A,43,14,2,5
+2023-05-31,Incident,Hardware,Critical,Team A,33,6,2,5
+2023-05-31,Incident,Software,Medium,Team A,83,16,2,5
+2023-06-01,Feature Request,Hardware,High,Team B,26,14,3,6
+2023-06-01,Incident,Network,Critical,Team A,42,10,3,6
+2023-06-01,Inquiry,Other,High,Team C,54,1,3,6
+2023-06-01,Feature Request,Hardware,Low,Team D,96,15,3,6
+2023-06-01,Feature Request,Software,High,Team A,58,9,3,6
+2023-06-01,Inquiry,Software,Critical,Team C,19,3,3,6
+2023-06-02,Incident,Other,Critical,Team B,63,12,4,6
+2023-06-02,Feature Request,Other,Medium,Team B,84,11,4,6
+2023-06-03,Incident,Hardware,Critical,Team B,97,5,5,6
+2023-06-03,Feature Request,Network,High,Team A,45,7,5,6
+2023-06-03,Feature Request,Network,Critical,Team A,51,16,5,6
+2023-06-04,Feature Request,Hardware,Critical,Team C,68,8,6,6
+2023-06-04,Incident,Hardware,Medium,Team A,98,13,6,6
+2023-06-05,Feature Request,Hardware,Low,Team B,97,17,0,6
+2023-06-06,Inquiry,Software,Low,Team A,31,11,1,6
+2023-06-07,Feature Request,Other,High,Team B,57,18,2,6
+2023-06-07,Bug,Software,Critical,Team C,97,8,2,6
+2023-06-07,Inquiry,Other,Low,Team A,13,8,2,6
+2023-06-09,Feature Request,Network,High,Team C,33,5,4,6
+2023-06-09,Inquiry,Hardware,High,Team A,85,5,4,6
+2023-06-09,Inquiry,Software,Critical,Team B,78,13,4,6
+2023-06-09,Inquiry,Network,High,Team B,1,11,4,6
+2023-06-09,Bug,Software,Critical,Team D,87,5,4,6
+2023-06-09,Inquiry,Software,Low,Team C,87,11,4,6
+2023-06-09,Feature Request,Network,Low,Team C,94,8,4,6
+2023-06-10,Inquiry,Hardware,Low,Team C,54,15,5,6
+2023-06-10,Inquiry,Other,Low,Team A,67,10,5,6
+2023-06-10,Feature Request,Network,Low,Team D,91,2,5,6
+2023-06-10,Inquiry,Software,Low,Team D,80,7,5,6
+2023-06-11,Feature Request,Hardware,Low,Team B,61,12,6,6
+2023-06-11,Feature Request,Hardware,High,Team B,10,16,6,6
+2023-06-12,Bug,Other,Critical,Team B,24,4,0,6
+2023-06-12,Bug,Hardware,Low,Team A,22,7,0,6
+2023-06-12,Bug,Other,High,Team C,20,10,0,6
+2023-06-12,Inquiry,Hardware,Low,Team D,15,10,0,6
+2023-06-13,Inquiry,Software,High,Team B,89,15,1,6
+2023-06-13,Feature Request,Other,Medium,Team A,82,16,1,6
+2023-06-13,Feature Request,Other,Critical,Team A,36,9,1,6
+2023-06-14,Inquiry,Software,Critical,Team A,21,4,2,6
+2023-06-14,Incident,Other,Medium,Team A,38,14,2,6
+2023-06-14,Feature Request,Network,Low,Team D,37,7,2,6
+2023-06-15,Bug,Other,High,Team D,18,11,3,6
+2023-06-16,Incident,Software,High,Team B,77,7,4,6
+2023-06-16,Inquiry,Network,High,Team D,92,17,4,6
+2023-06-17,Bug,Other,Critical,Team D,36,5,5,6
+2023-06-17,Feature Request,Other,Low,Team A,8,16,5,6
+2023-06-18,Bug,Other,Medium,Team C,4,13,6,6
+2023-06-19,Incident,Software,Medium,Team A,81,1,0,6
+2023-06-19,Inquiry,Hardware,Medium,Team B,59,7,0,6
+2023-06-19,Incident,Other,Critical,Team A,64,9,0,6
+2023-06-19,Bug,Other,Medium,Team D,8,12,0,6
+2023-06-19,Incident,Other,Critical,Team C,89,8,0,6
+2023-06-19,Bug,Software,Critical,Team C,73,7,0,6
+2023-06-20,Bug,Hardware,Low,Team B,11,11,1,6
+2023-06-21,Inquiry,Hardware,Low,Team B,28,6,2,6
+2023-06-21,Inquiry,Hardware,High,Team D,84,6,2,6
+2023-06-21,Feature Request,Software,High,Team C,95,4,2,6
+2023-06-21,Feature Request,Network,Medium,Team B,41,16,2,6
+2023-06-22,Inquiry,Other,Low,Team C,58,15,3,6
+2023-06-22,Incident,Network,Critical,Team D,70,8,3,6
+2023-06-22,Inquiry,Network,Critical,Team C,32,6,3,6
+2023-06-22,Inquiry,Network,High,Team C,40,6,3,6
+2023-06-22,Bug,Hardware,Low,Team C,3,7,3,6
+2023-06-22,Inquiry,Other,High,Team B,75,15,3,6
+2023-06-23,Incident,Hardware,Critical,Team A,1,18,4,6
+2023-06-23,Inquiry,Network,High,Team D,9,10,4,6
+2023-06-24,Feature Request,Other,High,Team C,72,5,5,6
+2023-06-25,Inquiry,Software,Low,Team D,53,13,6,6
+2023-06-25,Inquiry,Software,Medium,Team D,65,13,6,6
+2023-06-26,Inquiry,Other,High,Team B,85,5,0,6
+2023-06-26,Feature Request,Other,Critical,Team D,84,5,0,6
+2023-06-26,Feature Request,Network,Medium,Team C,24,18,0,6
+2023-06-26,Incident,Software,Critical,Team C,6,7,0,6
+2023-06-27,Feature Request,Network,Critical,Team D,93,1,1,6
+2023-06-27,Inquiry,Other,Low,Team D,61,15,1,6
+2023-06-28,Feature Request,Hardware,Low,Team C,41,8,2,6
+2023-06-28,Feature Request,Other,High,Team D,24,15,2,6
+2023-06-29,Inquiry,Other,Low,Team A,86,4,3,6
+2023-06-29,Bug,Network,Critical,Team C,66,11,3,6
+2023-06-29,Incident,Software,Low,Team D,75,3,3,6
+2023-06-29,Incident,Software,Low,Team C,66,8,3,6
+2023-06-29,Inquiry,Network,Medium,Team C,65,8,3,6
+2023-06-30,Feature Request,Hardware,Medium,Team B,78,1,4,6
+2023-06-30,Incident,Network,Low,Team C,79,2,4,6
+2023-07-01,Bug,Other,High,Team C,19,11,5,7
+2023-07-02,Incident,Hardware,High,Team B,20,19,6,7
+2023-07-02,Bug,Other,Critical,Team D,62,10,6,7
+2023-07-03,Feature Request,Hardware,High,Team C,40,9,0,7
+2023-07-03,Incident,Other,Critical,Team C,78,17,0,7
+2023-07-03,Bug,Software,Medium,Team A,36,11,0,7
+2023-07-04,Feature Request,Other,Medium,Team A,72,4,1,7
+2023-07-05,Feature Request,Hardware,High,Team B,85,11,2,7
+2023-07-05,Inquiry,Network,Low,Team D,52,4,2,7
+2023-07-05,Bug,Other,Critical,Team D,22,8,2,7
+2023-07-06,Incident,Software,Critical,Team A,82,8,3,7
+2023-07-06,Bug,Network,Critical,Team B,22,8,3,7
+2023-07-06,Incident,Network,Medium,Team B,45,17,3,7
+2023-07-06,Bug,Network,Low,Team D,26,15,3,7
+2023-07-06,Inquiry,Software,Critical,Team D,3,6,3,7
+2023-07-07,Feature Request,Software,High,Team B,39,11,4,7
+2023-07-07,Bug,Network,Medium,Team A,57,2,4,7
+2023-07-07,Feature Request,Hardware,Low,Team C,97,1,4,7
+2023-07-08,Bug,Hardware,Medium,Team A,72,14,5,7
+2023-07-08,Incident,Software,High,Team A,42,16,5,7
+2023-07-09,Inquiry,Other,High,Team C,55,13,6,7
+2023-07-09,Incident,Software,Medium,Team B,95,11,6,7
+2023-07-09,Inquiry,Software,Low,Team D,81,17,6,7
+2023-07-09,Feature Request,Other,Critical,Team D,34,1,6,7
+2023-07-09,Feature Request,Software,Low,Team A,43,14,6,7
+2023-07-09,Incident,Hardware,Critical,Team D,89,1,6,7
+2023-07-10,Incident,Software,High,Team A,57,11,0,7
+2023-07-10,Incident,Software,Critical,Team B,22,16,0,7
+2023-07-10,Inquiry,Software,Medium,Team C,40,18,0,7
+2023-07-11,Bug,Hardware,Low,Team D,22,15,1,7
+2023-07-11,Bug,Network,High,Team C,12,13,1,7
+2023-07-11,Incident,Network,Medium,Team C,80,6,1,7
+2023-07-11,Bug,Software,High,Team C,7,15,1,7
+2023-07-11,Bug,Software,Medium,Team D,79,7,1,7
+2023-07-11,Bug,Software,Medium,Team C,76,18,1,7
+2023-07-11,Feature Request,Other,Critical,Team D,29,14,1,7
+2023-07-13,Incident,Other,Low,Team A,98,9,3,7
+2023-07-13,Feature Request,Hardware,High,Team B,17,13,3,7
+2023-07-13,Feature Request,Software,Medium,Team D,32,13,3,7
+2023-07-14,Feature Request,Network,Critical,Team A,65,15,4,7
+2023-07-14,Bug,Hardware,Medium,Team C,50,16,4,7
+2023-07-14,Inquiry,Software,Medium,Team A,23,1,4,7
+2023-07-15,Inquiry,Network,Critical,Team B,78,6,5,7
+2023-07-15,Bug,Software,Low,Team A,91,13,5,7
+2023-07-16,Feature Request,Network,Medium,Team C,68,5,6,7
+2023-07-16,Feature Request,Hardware,Medium,Team C,86,17,6,7
+2023-07-17,Inquiry,Network,Critical,Team A,91,16,0,7
+2023-07-17,Bug,Network,Low,Team C,35,14,0,7
+2023-07-17,Incident,Hardware,Medium,Team B,31,16,0,7
+2023-07-17,Feature Request,Network,Low,Team D,86,11,0,7
+2023-07-18,Inquiry,Hardware,Medium,Team D,22,13,1,7
+2023-07-20,Inquiry,Software,Low,Team D,38,11,3,7
+2023-07-20,Feature Request,Hardware,Medium,Team B,18,15,3,7
+2023-07-20,Bug,Hardware,Critical,Team A,1,8,3,7
+2023-07-21,Bug,Network,Medium,Team A,45,3,4,7
+2023-07-21,Bug,Software,Critical,Team A,61,15,4,7
+2023-07-21,Bug,Other,High,Team D,43,4,4,7
+2023-07-21,Incident,Software,Medium,Team C,57,5,4,7
+2023-07-22,Feature Request,Other,Critical,Team A,90,16,5,7
+2023-07-22,Inquiry,Hardware,High,Team A,87,19,5,7
+2023-07-22,Incident,Hardware,High,Team B,82,14,5,7
+2023-07-23,Feature Request,Other,Critical,Team D,12,10,6,7
+2023-07-24,Feature Request,Other,Medium,Team A,55,15,0,7
+2023-07-24,Bug,Other,High,Team A,19,3,0,7
+2023-07-25,Incident,Network,High,Team D,96,13,1,7
+2023-07-25,Inquiry,Hardware,Critical,Team B,75,10,1,7
+2023-07-26,Feature Request,Other,Critical,Team B,80,18,2,7
+2023-07-26,Bug,Network,Low,Team A,80,10,2,7
+2023-07-26,Bug,Hardware,Medium,Team A,11,1,2,7
+2023-07-27,Incident,Hardware,High,Team C,24,13,3,7
+2023-07-27,Feature Request,Software,Low,Team B,65,16,3,7
+2023-07-27,Bug,Network,High,Team B,8,6,3,7
+2023-07-31,Incident,Hardware,Low,Team D,98,8,0,7
+2023-07-31,Bug,Hardware,Medium,Team A,45,14,0,7
+2023-07-31,Feature Request,Hardware,High,Team A,42,11,0,7
+2023-08-01,Inquiry,Hardware,High,Team C,10,10,1,8
+2023-08-01,Bug,Software,High,Team D,75,3,1,8
+2023-08-02,Bug,Other,Critical,Team A,3,15,2,8
+2023-08-02,Feature Request,Software,High,Team C,78,16,2,8
+2023-08-02,Feature Request,Other,Low,Team C,17,14,2,8
+2023-08-03,Feature Request,Hardware,Medium,Team D,62,13,3,8
+2023-08-03,Incident,Other,High,Team D,72,4,3,8
+2023-08-03,Feature Request,Other,Low,Team B,34,12,3,8
+2023-08-03,Inquiry,Software,High,Team D,13,19,3,8
+2023-08-03,Bug,Hardware,Medium,Team C,98,13,3,8
+2023-08-04,Bug,Hardware,High,Team B,66,19,4,8
+2023-08-04,Inquiry,Hardware,Low,Team B,74,19,4,8
+2023-08-05,Bug,Other,Medium,Team C,25,9,5,8
+2023-08-05,Feature Request,Hardware,Critical,Team D,21,14,5,8
+2023-08-05,Bug,Hardware,High,Team B,54,19,5,8
+2023-08-05,Feature Request,Software,High,Team D,54,12,5,8
+2023-08-05,Feature Request,Hardware,Low,Team B,53,16,5,8
+2023-08-05,Inquiry,Other,Medium,Team A,3,5,5,8
+2023-08-06,Feature Request,Other,Critical,Team D,17,17,6,8
+2023-08-06,Bug,Network,Medium,Team A,20,10,6,8
+2023-08-06,Incident,Software,Medium,Team A,81,14,6,8
+2023-08-06,Bug,Other,Low,Team A,26,19,6,8
+2023-08-06,Inquiry,Hardware,Medium,Team B,67,14,6,8
+2023-08-08,Bug,Software,High,Team B,96,16,1,8
+2023-08-08,Feature Request,Software,Medium,Team C,60,10,1,8
+2023-08-08,Inquiry,Hardware,Critical,Team A,69,17,1,8
+2023-08-08,Feature Request,Hardware,High,Team B,27,5,1,8
+2023-08-08,Feature Request,Software,Low,Team A,59,11,1,8
+2023-08-08,Incident,Software,Low,Team A,63,7,1,8
+2023-08-08,Bug,Other,Medium,Team C,12,3,1,8
+2023-08-09,Bug,Software,Critical,Team A,30,2,2,8
+2023-08-10,Inquiry,Hardware,High,Team B,5,4,3,8
+2023-08-10,Feature Request,Hardware,Medium,Team A,78,13,3,8
+2023-08-10,Incident,Hardware,Low,Team A,59,17,3,8
+2023-08-11,Feature Request,Software,Medium,Team D,48,6,4,8
+2023-08-11,Bug,Other,Critical,Team B,42,8,4,8
+2023-08-11,Incident,Hardware,Low,Team B,64,13,4,8
+2023-08-11,Incident,Hardware,Critical,Team A,51,15,4,8
+2023-08-11,Feature Request,Hardware,Critical,Team B,94,12,4,8
+2023-08-12,Feature Request,Other,High,Team B,1,7,5,8
+2023-08-12,Feature Request,Other,High,Team D,32,6,5,8
+2023-08-12,Incident,Hardware,Low,Team D,39,7,5,8
+2023-08-12,Feature Request,Software,Low,Team A,39,18,5,8
+2023-08-13,Feature Request,Software,High,Team C,76,6,6,8
+2023-08-13,Feature Request,Hardware,High,Team A,74,12,6,8
+2023-08-13,Incident,Software,High,Team A,39,7,6,8
+2023-08-13,Incident,Hardware,High,Team A,89,2,6,8
+2023-08-14,Incident,Hardware,Medium,Team D,91,1,0,8
+2023-08-14,Inquiry,Hardware,Critical,Team C,87,11,0,8
+2023-08-14,Inquiry,Network,Medium,Team B,38,5,0,8
+2023-08-15,Inquiry,Software,Medium,Team B,96,17,1,8
+2023-08-15,Inquiry,Hardware,Critical,Team D,59,14,1,8
+2023-08-15,Bug,Network,High,Team B,6,12,1,8
+2023-08-15,Incident,Network,Low,Team C,24,3,1,8
+2023-08-15,Feature Request,Software,Medium,Team D,2,6,1,8
+2023-08-16,Inquiry,Network,Medium,Team C,37,4,2,8
+2023-08-16,Bug,Hardware,Low,Team D,3,13,2,8
+2023-08-17,Feature Request,Hardware,High,Team C,99,11,3,8
+2023-08-17,Incident,Software,Low,Team D,13,3,3,8
+2023-08-17,Inquiry,Hardware,Critical,Team D,62,17,3,8
+2023-08-17,Bug,Software,Low,Team C,19,14,3,8
+2023-08-17,Inquiry,Network,High,Team D,67,2,3,8
+2023-08-18,Bug,Network,Low,Team A,54,14,4,8
+2023-08-18,Incident,Software,Critical,Team D,36,10,4,8
+2023-08-19,Feature Request,Software,Critical,Team A,65,15,5,8
+2023-08-19,Inquiry,Software,Medium,Team D,99,13,5,8
+2023-08-19,Feature Request,Hardware,Low,Team B,21,11,5,8
+2023-08-19,Incident,Software,Low,Team C,90,6,5,8
+2023-08-19,Feature Request,Network,Low,Team B,92,14,5,8
+2023-08-21,Bug,Network,Low,Team C,30,10,0,8
+2023-08-21,Feature Request,Network,Critical,Team B,23,4,0,8
+2023-08-21,Feature Request,Network,Low,Team C,3,10,0,8
+2023-08-21,Bug,Network,Low,Team D,17,7,0,8
+2023-08-21,Feature Request,Other,Critical,Team D,88,10,0,8
+2023-08-21,Bug,Software,Medium,Team B,27,18,0,8
+2023-08-21,Incident,Other,Low,Team D,42,5,0,8
+2023-08-21,Feature Request,Hardware,High,Team B,93,5,0,8
+2023-08-22,Bug,Hardware,Critical,Team A,92,18,1,8
+2023-08-23,Feature Request,Network,Critical,Team B,25,8,2,8
+2023-08-23,Inquiry,Other,Medium,Team D,28,17,2,8
+2023-08-24,Incident,Software,High,Team B,59,11,3,8
+2023-08-24,Bug,Network,Critical,Team D,41,7,3,8
+2023-08-24,Inquiry,Software,Low,Team B,51,15,3,8
+2023-08-25,Incident,Hardware,Critical,Team B,22,6,4,8
+2023-08-25,Bug,Other,Low,Team D,49,5,4,8
+2023-08-25,Incident,Other,Low,Team B,62,2,4,8
+2023-08-26,Inquiry,Other,Medium,Team C,57,14,5,8
+2023-08-26,Inquiry,Software,High,Team A,27,18,5,8
+2023-08-26,Incident,Other,Low,Team D,41,8,5,8
+2023-08-27,Bug,Other,Medium,Team D,45,19,6,8
+2023-08-27,Incident,Software,Critical,Team D,51,14,6,8
+2023-08-27,Feature Request,Other,Low,Team B,43,14,6,8
+2023-08-27,Bug,Hardware,Medium,Team B,38,13,6,8
+2023-08-27,Incident,Other,Critical,Team A,89,16,6,8
+2023-08-28,Inquiry,Network,Low,Team C,82,18,0,8
+2023-08-28,Inquiry,Hardware,Medium,Team A,22,15,0,8
+2023-08-28,Inquiry,Other,Critical,Team D,72,17,0,8
+2023-08-29,Inquiry,Software,Medium,Team D,48,13,1,8
+2023-08-30,Incident,Hardware,High,Team A,68,16,2,8
+2023-08-30,Incident,Software,Medium,Team D,69,16,2,8
+2023-08-30,Bug,Other,Low,Team D,4,2,2,8
+2023-08-30,Inquiry,Other,Critical,Team B,23,1,2,8
+2023-08-31,Bug,Hardware,Critical,Team D,26,17,3,8
+2023-08-31,Feature Request,Hardware,Low,Team B,96,19,3,8
+2023-09-01,Inquiry,Network,Low,Team D,4,5,4,9
+2023-09-03,Inquiry,Network,Medium,Team D,21,5,6,9
+2023-09-03,Feature Request,Software,Medium,Team A,50,2,6,9
+2023-09-04,Bug,Network,Medium,Team C,99,3,0,9
+2023-09-04,Incident,Hardware,Medium,Team D,87,1,0,9
+2023-09-04,Inquiry,Other,Low,Team A,51,9,0,9
+2023-09-04,Inquiry,Other,Critical,Team C,33,10,0,9
+2023-09-04,Feature Request,Other,Medium,Team B,16,17,0,9
+2023-09-04,Inquiry,Network,Medium,Team B,39,19,0,9
+2023-09-06,Feature Request,Software,Low,Team D,98,2,2,9
+2023-09-06,Bug,Network,High,Team B,47,2,2,9
+2023-09-06,Feature Request,Software,High,Team B,6,1,2,9
+2023-09-06,Bug,Other,High,Team C,53,5,2,9
+2023-09-07,Inquiry,Software,Critical,Team B,85,4,3,9
+2023-09-07,Bug,Network,Critical,Team A,33,9,3,9
+2023-09-07,Feature Request,Network,High,Team B,47,12,3,9
+2023-09-08,Bug,Other,Medium,Team C,92,4,4,9
+2023-09-08,Incident,Hardware,Low,Team B,42,19,4,9
+2023-09-09,Feature Request,Hardware,Critical,Team A,68,15,5,9
+2023-09-09,Bug,Other,Medium,Team B,60,11,5,9
+2023-09-09,Feature Request,Network,Critical,Team B,73,3,5,9
+2023-09-09,Incident,Software,Low,Team C,38,10,5,9
+2023-09-09,Bug,Network,Critical,Team C,26,7,5,9
+2023-09-09,Bug,Other,High,Team A,75,13,5,9
+2023-09-09,Feature Request,Hardware,Critical,Team A,37,7,5,9
+2023-09-10,Incident,Other,High,Team C,9,3,6,9
+2023-09-10,Inquiry,Network,Medium,Team C,7,15,6,9
+2023-09-10,Bug,Other,Low,Team C,93,13,6,9
+2023-09-10,Bug,Other,High,Team C,58,17,6,9
+2023-09-10,Feature Request,Hardware,Low,Team A,57,12,6,9
+2023-09-10,Bug,Software,Critical,Team D,85,9,6,9
+2023-09-11,Bug,Software,Medium,Team C,67,14,0,9
+2023-09-11,Feature Request,Software,Critical,Team D,40,5,0,9
+2023-09-11,Bug,Other,High,Team A,28,5,0,9
+2023-09-12,Inquiry,Hardware,Medium,Team D,18,10,1,9
+2023-09-12,Feature Request,Hardware,Critical,Team C,75,18,1,9
+2023-09-12,Incident,Software,High,Team B,76,19,1,9
+2023-09-13,Inquiry,Hardware,Medium,Team A,21,12,2,9
+2023-09-13,Bug,Network,Medium,Team C,4,11,2,9
+2023-09-14,Incident,Other,Low,Team D,28,14,3,9
+2023-09-14,Bug,Software,Medium,Team B,44,17,3,9
+2023-09-14,Bug,Network,Critical,Team C,33,8,3,9
+2023-09-15,Bug,Hardware,High,Team A,14,8,4,9
+2023-09-15,Bug,Software,Critical,Team C,58,1,4,9
+2023-09-16,Feature Request,Other,High,Team D,10,15,5,9
+2023-09-16,Inquiry,Hardware,Low,Team B,86,19,5,9
+2023-09-16,Inquiry,Network,Critical,Team D,6,13,5,9
+2023-09-16,Incident,Network,Low,Team D,81,17,5,9
+2023-09-16,Bug,Hardware,Low,Team A,56,2,5,9
+2023-09-17,Bug,Network,Low,Team A,96,15,6,9
+2023-09-17,Feature Request,Other,High,Team D,90,17,6,9
+2023-09-18,Incident,Software,Medium,Team A,61,14,0,9
+2023-09-19,Feature Request,Network,High,Team A,58,12,1,9
+2023-09-19,Feature Request,Other,High,Team B,39,3,1,9
+2023-09-20,Inquiry,Other,Critical,Team B,76,16,2,9
+2023-09-21,Inquiry,Hardware,High,Team D,82,14,3,9
+2023-09-21,Feature Request,Other,Medium,Team A,40,12,3,9
+2023-09-21,Feature Request,Hardware,Low,Team B,10,15,3,9
+2023-09-21,Incident,Network,Low,Team A,84,12,3,9
+2023-09-21,Bug,Software,Low,Team D,96,1,3,9
+2023-09-21,Incident,Other,Medium,Team C,39,17,3,9
+2023-09-22,Bug,Hardware,Medium,Team D,73,3,4,9
+2023-09-22,Incident,Hardware,Critical,Team A,90,8,4,9
+2023-09-24,Inquiry,Network,Critical,Team A,29,3,6,9
+2023-09-24,Inquiry,Software,High,Team A,56,7,6,9
+2023-09-25,Bug,Software,Medium,Team D,39,9,0,9
+2023-09-25,Bug,Other,Critical,Team C,86,5,0,9
+2023-09-25,Incident,Network,Critical,Team B,91,8,0,9
+2023-09-25,Incident,Other,Critical,Team D,63,6,0,9
+2023-09-25,Inquiry,Hardware,Medium,Team A,29,15,0,9
+2023-09-26,Feature Request,Hardware,Critical,Team D,29,3,1,9
+2023-09-27,Feature Request,Other,Critical,Team D,83,6,2,9
+2023-09-28,Inquiry,Other,High,Team C,53,17,3,9
+2023-09-28,Incident,Software,Low,Team B,90,18,3,9
+2023-09-28,Bug,Network,Critical,Team B,76,12,3,9
+2023-09-28,Incident,Network,High,Team A,87,8,3,9
+2023-09-29,Bug,Hardware,Low,Team D,60,11,4,9
+2023-09-29,Feature Request,Software,Low,Team D,57,15,4,9
+2023-09-30,Inquiry,Other,Critical,Team A,73,18,5,9
+2023-09-30,Bug,Network,Low,Team C,48,6,5,9
+2023-09-30,Inquiry,Hardware,Low,Team A,79,8,5,9
+2023-09-30,Feature Request,Network,Low,Team D,99,19,5,9
+2023-10-01,Incident,Network,High,Team A,79,8,6,10
+2023-10-01,Bug,Hardware,Critical,Team B,48,15,6,10
+2023-10-02,Incident,Network,High,Team C,69,3,0,10
+2023-10-02,Bug,Software,High,Team D,62,10,0,10
+2023-10-02,Incident,Network,Medium,Team A,27,10,0,10
+2023-10-04,Bug,Hardware,High,Team D,92,8,2,10
+2023-10-04,Feature Request,Software,High,Team A,10,17,2,10
+2023-10-04,Inquiry,Software,High,Team A,16,4,2,10
+2023-10-04,Bug,Software,High,Team B,49,13,2,10
+2023-10-04,Feature Request,Network,Critical,Team D,85,17,2,10
+2023-10-04,Inquiry,Other,High,Team B,77,2,2,10
+2023-10-05,Bug,Network,Low,Team B,56,5,3,10
+2023-10-06,Bug,Software,Medium,Team C,41,15,4,10
+2023-10-06,Feature Request,Software,High,Team C,99,12,4,10
+2023-10-07,Incident,Hardware,High,Team B,7,2,5,10
+2023-10-07,Inquiry,Other,High,Team C,25,1,5,10
+2023-10-07,Bug,Hardware,High,Team B,93,2,5,10
+2023-10-07,Inquiry,Hardware,Medium,Team D,88,4,5,10
+2023-10-07,Incident,Hardware,Low,Team C,81,19,5,10
+2023-10-08,Inquiry,Hardware,Low,Team B,31,8,6,10
+2023-10-08,Bug,Hardware,Low,Team A,47,10,6,10
+2023-10-09,Inquiry,Network,High,Team D,49,12,0,10
+2023-10-09,Inquiry,Hardware,Critical,Team B,95,14,0,10
+2023-10-09,Bug,Other,High,Team C,74,4,0,10
+2023-10-10,Inquiry,Hardware,Medium,Team A,46,2,1,10
+2023-10-10,Feature Request,Other,Critical,Team D,50,16,1,10
+2023-10-10,Inquiry,Hardware,Low,Team A,81,12,1,10
+2023-10-10,Bug,Network,Low,Team C,47,10,1,10
+2023-10-10,Incident,Network,Medium,Team C,40,13,1,10
+2023-10-11,Inquiry,Software,High,Team A,3,18,2,10
+2023-10-11,Feature Request,Software,Critical,Team A,80,16,2,10
+2023-10-11,Inquiry,Network,High,Team D,97,4,2,10
+2023-10-11,Inquiry,Network,Low,Team B,4,14,2,10
+2023-10-12,Bug,Hardware,Critical,Team C,97,18,3,10
+2023-10-12,Incident,Network,Medium,Team A,78,12,3,10
+2023-10-12,Feature Request,Network,Critical,Team D,74,17,3,10
+2023-10-13,Inquiry,Software,Critical,Team D,84,3,4,10
+2023-10-13,Bug,Software,Low,Team D,88,5,4,10
+2023-10-13,Inquiry,Other,Medium,Team D,8,10,4,10
+2023-10-13,Bug,Hardware,Low,Team C,45,15,4,10
+2023-10-13,Bug,Hardware,Medium,Team B,61,16,4,10
+2023-10-15,Bug,Hardware,High,Team B,5,9,6,10
+2023-10-15,Inquiry,Network,High,Team D,96,7,6,10
+2023-10-15,Feature Request,Software,Medium,Team C,73,5,6,10
+2023-10-16,Inquiry,Network,Medium,Team C,96,6,0,10
+2023-10-16,Bug,Other,Critical,Team A,49,2,0,10
+2023-10-16,Incident,Hardware,Low,Team B,57,17,0,10
+2023-10-16,Inquiry,Hardware,Critical,Team D,3,16,0,10
+2023-10-16,Incident,Network,Medium,Team A,57,13,0,10
+2023-10-17,Bug,Software,Low,Team B,20,16,1,10
+2023-10-17,Inquiry,Software,High,Team C,69,19,1,10
+2023-10-19,Inquiry,Software,Low,Team A,4,6,3,10
+2023-10-19,Feature Request,Network,Medium,Team D,54,4,3,10
+2023-10-20,Incident,Other,Critical,Team D,40,3,4,10
+2023-10-20,Incident,Hardware,Critical,Team D,46,1,4,10
+2023-10-21,Bug,Hardware,Medium,Team C,45,10,5,10
+2023-10-21,Bug,Other,Medium,Team D,66,12,5,10
+2023-10-21,Bug,Software,High,Team B,57,14,5,10
+2023-10-21,Feature Request,Hardware,Critical,Team C,13,1,5,10
+2023-10-22,Bug,Network,Low,Team C,22,11,6,10
+2023-10-23,Inquiry,Software,Medium,Team A,28,3,0,10
+2023-10-25,Inquiry,Software,Medium,Team A,21,16,2,10
+2023-10-26,Bug,Software,Critical,Team C,25,6,3,10
+2023-10-27,Bug,Software,Medium,Team D,45,1,4,10
+2023-10-27,Incident,Hardware,High,Team B,21,19,4,10
+2023-10-28,Feature Request,Hardware,Medium,Team A,7,2,5,10
+2023-10-28,Bug,Network,Medium,Team C,28,5,5,10
+2023-10-28,Feature Request,Other,Medium,Team D,26,19,5,10
+2023-10-29,Incident,Hardware,High,Team A,51,15,6,10
+2023-10-29,Inquiry,Software,High,Team A,6,6,6,10
+2023-10-30,Incident,Software,High,Team D,87,2,0,10
+2023-10-30,Feature Request,Hardware,Low,Team B,82,13,0,10
+2023-10-30,Bug,Other,Critical,Team B,7,17,0,10
+2023-10-30,Inquiry,Software,Medium,Team A,41,6,0,10
+2023-10-31,Feature Request,Network,Medium,Team C,87,17,1,10
+2023-10-31,Bug,Network,Medium,Team D,93,13,1,10
+2023-10-31,Incident,Network,High,Team C,77,18,1,10
+2023-10-31,Feature Request,Network,Critical,Team D,86,7,1,10
+2023-10-31,Inquiry,Hardware,Low,Team C,26,17,1,10
+2023-11-01,Bug,Software,Medium,Team B,64,14,2,11
+2023-11-01,Inquiry,Network,Medium,Team A,74,3,2,11
+2023-11-02,Feature Request,Network,High,Team B,35,10,3,11
+2023-11-02,Inquiry,Network,High,Team D,88,19,3,11
+2023-11-02,Bug,Other,Low,Team D,32,11,3,11
+2023-11-03,Bug,Hardware,Low,Team A,36,2,4,11
+2023-11-03,Incident,Other,Low,Team A,29,16,4,11
+2023-11-04,Incident,Network,Low,Team A,98,16,5,11
+2023-11-04,Incident,Software,Low,Team B,66,17,5,11
+2023-11-04,Bug,Hardware,Low,Team A,88,13,5,11
+2023-11-05,Inquiry,Hardware,Medium,Team B,55,3,6,11
+2023-11-06,Feature Request,Software,Medium,Team B,71,3,0,11
+2023-11-06,Inquiry,Other,Critical,Team B,93,7,0,11
+2023-11-07,Inquiry,Network,High,Team A,45,7,1,11
+2023-11-07,Incident,Other,High,Team B,4,14,1,11
+2023-11-07,Incident,Hardware,Medium,Team B,69,16,1,11
+2023-11-08,Feature Request,Software,High,Team B,54,8,2,11
+2023-11-08,Feature Request,Other,Low,Team D,75,17,2,11
+2023-11-08,Incident,Software,Low,Team C,11,12,2,11
+2023-11-09,Incident,Software,High,Team B,87,10,3,11
+2023-11-09,Feature Request,Network,Critical,Team C,96,19,3,11
+2023-11-10,Bug,Hardware,Critical,Team C,76,14,4,11
+2023-11-10,Incident,Network,High,Team D,43,10,4,11
+2023-11-10,Inquiry,Software,Critical,Team D,49,17,4,11
+2023-11-11,Incident,Hardware,Low,Team B,43,15,5,11
+2023-11-11,Inquiry,Hardware,High,Team C,67,13,5,11
+2023-11-11,Bug,Software,High,Team B,30,15,5,11
+2023-11-12,Incident,Network,Critical,Team D,15,17,6,11
+2023-11-12,Inquiry,Software,Medium,Team D,2,15,6,11
+2023-11-12,Incident,Software,Critical,Team A,44,6,6,11
+2023-11-13,Feature Request,Hardware,Medium,Team D,97,3,0,11
+2023-11-13,Bug,Other,Medium,Team D,16,2,0,11
+2023-11-13,Feature Request,Hardware,Low,Team C,61,12,0,11
+2023-11-13,Inquiry,Other,Critical,Team B,51,17,0,11
+2023-11-14,Bug,Hardware,High,Team C,36,12,1,11
+2023-11-14,Feature Request,Software,Critical,Team B,62,9,1,11
+2023-11-14,Incident,Hardware,Critical,Team D,9,18,1,11
+2023-11-14,Incident,Network,Critical,Team D,72,8,1,11
+2023-11-15,Inquiry,Software,Medium,Team B,65,5,2,11
+2023-11-15,Bug,Other,Low,Team A,29,2,2,11
+2023-11-16,Feature Request,Hardware,Medium,Team C,96,3,3,11
+2023-11-16,Bug,Software,Critical,Team D,59,10,3,11
+2023-11-16,Bug,Software,High,Team B,67,14,3,11
+2023-11-17,Incident,Network,Critical,Team D,54,10,4,11
+2023-11-17,Inquiry,Hardware,Medium,Team A,23,7,4,11
+2023-11-18,Bug,Hardware,Critical,Team A,93,6,5,11
+2023-11-18,Inquiry,Hardware,Low,Team A,29,13,5,11
+2023-11-19,Bug,Other,Medium,Team D,59,11,6,11
+2023-11-19,Feature Request,Software,Medium,Team A,74,3,6,11
+2023-11-19,Incident,Other,High,Team C,72,1,6,11
+2023-11-20,Feature Request,Network,Medium,Team D,86,11,0,11
+2023-11-20,Feature Request,Network,Medium,Team C,91,12,0,11
+2023-11-21,Feature Request,Other,Medium,Team C,19,1,1,11
+2023-11-21,Inquiry,Network,Medium,Team B,13,9,1,11
+2023-11-21,Inquiry,Hardware,Critical,Team C,84,9,1,11
+2023-11-22,Bug,Other,High,Team D,90,15,2,11
+2023-11-22,Inquiry,Software,Low,Team B,39,10,2,11
+2023-11-22,Bug,Hardware,Low,Team C,20,10,2,11
+2023-11-22,Bug,Network,Critical,Team A,67,10,2,11
+2023-11-23,Incident,Other,Medium,Team C,52,2,3,11
+2023-11-23,Feature Request,Hardware,Critical,Team B,85,8,3,11
+2023-11-23,Incident,Other,Medium,Team A,55,8,3,11
+2023-11-24,Bug,Hardware,Low,Team A,62,12,4,11
+2023-11-25,Bug,Software,Medium,Team A,28,8,5,11
+2023-11-26,Bug,Software,High,Team B,34,8,6,11
+2023-11-26,Bug,Other,High,Team C,89,10,6,11
+2023-11-26,Incident,Software,Low,Team C,90,8,6,11
+2023-11-27,Incident,Network,Critical,Team B,37,19,0,11
+2023-11-27,Incident,Other,Critical,Team D,25,5,0,11
+2023-11-27,Bug,Software,Medium,Team C,28,7,0,11
+2023-11-27,Feature Request,Software,Critical,Team C,94,17,0,11
+2023-11-29,Incident,Other,High,Team A,94,15,2,11
+2023-12-01,Feature Request,Software,Critical,Team B,9,8,4,12
+2023-12-01,Incident,Software,Low,Team C,16,9,4,12
+2023-12-01,Feature Request,Other,Critical,Team C,17,18,4,12
+2023-12-01,Bug,Network,Critical,Team B,94,1,4,12
+2023-12-02,Feature Request,Hardware,Low,Team C,79,12,5,12
+2023-12-02,Inquiry,Software,Low,Team A,97,10,5,12
+2023-12-03,Bug,Hardware,Critical,Team B,41,6,6,12
+2023-12-03,Bug,Network,Medium,Team A,16,4,6,12
+2023-12-04,Feature Request,Software,Critical,Team A,36,5,0,12
+2023-12-04,Bug,Software,Low,Team D,23,7,0,12
+2023-12-04,Inquiry,Other,Medium,Team C,68,12,0,12
+2023-12-04,Inquiry,Network,Medium,Team C,47,10,0,12
+2023-12-05,Inquiry,Other,Low,Team C,59,5,1,12
+2023-12-05,Bug,Network,Critical,Team A,17,12,1,12
+2023-12-06,Inquiry,Hardware,Critical,Team B,1,6,2,12
+2023-12-06,Bug,Hardware,Low,Team C,19,15,2,12
+2023-12-06,Bug,Software,Critical,Team A,56,6,2,12
+2023-12-06,Feature Request,Hardware,High,Team B,28,11,2,12
+2023-12-06,Incident,Hardware,High,Team C,13,5,2,12
+2023-12-07,Incident,Other,High,Team D,5,15,3,12
+2023-12-07,Incident,Hardware,High,Team B,6,8,3,12
+2023-12-07,Feature Request,Other,High,Team C,30,2,3,12
+2023-12-08,Incident,Other,Medium,Team C,55,3,4,12
+2023-12-08,Bug,Hardware,Medium,Team D,34,12,4,12
+2023-12-08,Inquiry,Software,High,Team C,70,4,4,12
+2023-12-08,Inquiry,Software,Critical,Team D,10,11,4,12
+2023-12-08,Inquiry,Hardware,Critical,Team C,50,18,4,12
+2023-12-08,Bug,Software,Critical,Team B,71,19,4,12
+2023-12-09,Bug,Other,High,Team A,1,18,5,12
+2023-12-10,Inquiry,Network,Medium,Team A,54,5,6,12
+2023-12-10,Bug,Other,High,Team C,7,13,6,12
+2023-12-11,Feature Request,Software,Medium,Team C,73,4,0,12
+2023-12-11,Bug,Other,Low,Team A,84,14,0,12
+2023-12-12,Inquiry,Hardware,Critical,Team A,60,8,1,12
+2023-12-12,Inquiry,Network,Critical,Team B,9,11,1,12
+2023-12-12,Bug,Software,Low,Team A,41,17,1,12
+2023-12-12,Feature Request,Network,High,Team C,28,15,1,12
+2023-12-12,Incident,Software,Medium,Team C,6,15,1,12
+2023-12-12,Inquiry,Software,Low,Team A,13,1,1,12
+2023-12-12,Feature Request,Network,High,Team B,41,17,1,12
+2023-12-13,Inquiry,Other,High,Team B,85,12,2,12
+2023-12-14,Bug,Other,Critical,Team A,48,14,3,12
+2023-12-14,Bug,Other,Critical,Team C,9,3,3,12
+2023-12-14,Incident,Software,Medium,Team B,94,8,3,12
+2023-12-14,Inquiry,Hardware,Low,Team A,49,18,3,12
+2023-12-15,Inquiry,Hardware,Critical,Team D,27,9,4,12
+2023-12-15,Bug,Hardware,Medium,Team D,87,15,4,12
+2023-12-15,Feature Request,Other,Medium,Team C,61,17,4,12
+2023-12-15,Feature Request,Network,Critical,Team D,67,6,4,12
+2023-12-15,Inquiry,Other,Critical,Team C,58,10,4,12
+2023-12-16,Inquiry,Software,High,Team C,8,12,5,12
+2023-12-16,Incident,Other,Low,Team C,3,18,5,12
+2023-12-16,Inquiry,Other,High,Team D,14,15,5,12
+2023-12-16,Incident,Network,Low,Team A,48,3,5,12
+2023-12-17,Incident,Other,Low,Team C,11,14,6,12
+2023-12-17,Bug,Software,High,Team B,12,4,6,12
+2023-12-18,Bug,Network,Low,Team D,68,3,0,12
+2023-12-18,Inquiry,Other,Medium,Team C,29,5,0,12
+2023-12-18,Inquiry,Network,Critical,Team A,17,18,0,12
+2023-12-20,Feature Request,Other,Low,Team A,41,2,2,12
+2023-12-21,Inquiry,Network,Low,Team A,20,3,3,12
+2023-12-21,Feature Request,Other,Critical,Team D,65,1,3,12
+2023-12-21,Incident,Software,Critical,Team A,61,12,3,12
+2023-12-21,Feature Request,Software,Low,Team D,81,3,3,12
+2023-12-22,Inquiry,Other,High,Team C,2,8,4,12
+2023-12-23,Inquiry,Software,Low,Team C,35,5,5,12
+2023-12-23,Feature Request,Hardware,Medium,Team B,40,12,5,12
+2023-12-23,Feature Request,Software,Critical,Team A,69,6,5,12
+2023-12-24,Bug,Software,Critical,Team C,28,16,6,12
+2023-12-24,Incident,Other,Critical,Team C,27,19,6,12
+2023-12-25,Feature Request,Hardware,Critical,Team B,77,18,0,12
+2023-12-25,Incident,Hardware,High,Team C,93,14,0,12
+2023-12-26,Inquiry,Hardware,High,Team B,34,8,1,12
+2023-12-26,Feature Request,Software,High,Team D,69,6,1,12
+2023-12-26,Bug,Hardware,Low,Team C,94,1,1,12
+2023-12-26,Bug,Network,Critical,Team D,28,3,1,12
+2023-12-26,Incident,Network,Critical,Team B,96,6,1,12
+2023-12-26,Incident,Hardware,Critical,Team D,74,13,1,12
+2023-12-27,Inquiry,Hardware,Medium,Team D,69,9,2,12
+2023-12-27,Bug,Network,Low,Team A,19,17,2,12
+2023-12-29,Inquiry,Hardware,High,Team C,18,7,4,12
+2023-12-30,Inquiry,Network,Low,Team C,26,11,5,12
+2023-12-30,Bug,Network,High,Team D,86,3,5,12
+2023-12-31,Feature Request,Network,Critical,Team D,2,1,6,12
+2023-12-31,Incident,Other,Critical,Team B,79,15,6,12
+2023-12-31,Bug,Other,Low,Team D,27,6,6,12
+2023-12-31,Bug,Hardware,Low,Team B,70,8,6,12
+2023-12-31,Inquiry,Hardware,High,Team C,33,9,6,12
+2023-12-31,Bug,Other,Medium,Team A,41,14,6,12
